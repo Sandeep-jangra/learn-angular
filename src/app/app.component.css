@@ -1,0 +1,14 @@
+p {
+  font-family: Lato;
+}
+
+.nav-bar {
+  list-style-type: None;
+}
+
+.nav-bar > li {
+  display: inline;
+  margin-left: 20px;
+  font-size: large;
+  font-weight: 600;
+}
